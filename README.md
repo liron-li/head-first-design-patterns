@@ -1,2 +1,7 @@
-# head-first-design-patterns
-head-first-design-patterns demo by laravel
+#### 《head first 设计模式》 demo 
+
+- 策略模式
+- 装饰器模式
+- 观察者模式
+- 命令模式
+- 单例模式
